@@ -1,0 +1,1 @@
+100% written by LLMs (claude-3.5-sonnet & gpt-o1)
